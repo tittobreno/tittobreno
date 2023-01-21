@@ -1,7 +1,7 @@
 # Olá! :)
 Meu nome é Breno!
 
-Desenvolvedor Back-end apaixonado por tecnologia, música e pela arte culinária!
+Desenvolvedor Full-Stack apaixonado por tecnologia, música e pela arte culinária!
 
 ## Contato
 
