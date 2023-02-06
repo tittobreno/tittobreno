@@ -1,8 +1,8 @@
 # Olá! :)
-Meu nome é Breno!
+Meu nome é Breno Moraes! Bem vindo(a) ao meu perfil!
 
-Desenvolvedor Full-Stack apaixonado por tecnologia, música e pela arte culinária!
-
+- Desenvolvedor Full-Stack
+- Graduando Análise e Desenvolvimento de Software - Estácio
 ## Contato
 
 Email: brenomoraes.dev@gmail.com
