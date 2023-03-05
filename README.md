@@ -28,4 +28,4 @@ Portfólio: https://breno-moraes.netlify.app/
 ## Projetos
   - Poke Tracker
     - Repositório:
-    - Deploy: 
+    - Deploy: https://poketracker-tb.netlify.app/
