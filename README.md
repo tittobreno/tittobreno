@@ -28,7 +28,9 @@ Portfólio: https://breno-moraes.netlify.app/
 ## Projetos
 ### #Node 
   - ### Poupa Fácil
-    - 
+    - Repositório Back-end: 
+    - Repositório Front-end: 
+    - Deploy:
 
   - ### Poke Tracker
     - Repositório: https://github.com/tittobreno/poke-tracker
