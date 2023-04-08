@@ -30,8 +30,8 @@ Portfólio: https://breno-moraes.netlify.app/
   - ### Poupa Fácil
     - Repositório Back-end: https://github.com/tittobreno/poupa-facil-back
     - Repositório Front-end: https://github.com/tittobreno/poupa-facil-front
-    - Deploy:
+    - Demonstração (Deploy): (EM BREVE)
 
   - ### Poke Tracker
     - Repositório: https://github.com/tittobreno/poke-tracker
-    - Deploy: https://poketracker-tb.netlify.app/
+    - Demonstração (Deploy): https://poketracker-tb.netlify.app/
