@@ -10,7 +10,6 @@ Email: brenomoraes.dev@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/dev-breno-moraes/
 
-Telefone: +55 (74)98101-6765
 
 Portfólio: https://breno-moraes.netlify.app/
 
