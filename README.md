@@ -1,4 +1,4 @@
-# Olá! :)
+# Olá! :D
 Meu nome é Breno Moraes! Bem vindo(a) ao meu perfil!
 
 - Desenvolvedor Full-Stack
