@@ -8,9 +8,6 @@ Meu nome é Breno Moraes! Bem vindo(a) ao meu perfil!
 
 Email: brenomoraes.dev@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/dev-breno-moraes/
-
-
 
 
 ## Hard Skills
