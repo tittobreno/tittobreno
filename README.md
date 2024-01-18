@@ -21,13 +21,4 @@ Email: brenomoraes.dev@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tittobreno)](https://https://github.com/tittobreno/tittobreno)
 
-## Projetos
-### #Node 
-  - ### Poupa Fácil
-    - Repositório Back-end: https://github.com/tittobreno/poupa-facil-back
-    - Repositório Front-end: https://github.com/tittobreno/poupa-facil-front
-    - Demonstração (Deploy): (EM BREVE)
 
-  - ### Poke Tracker
-    - Repositório: https://github.com/tittobreno/poke-tracker
-    - Demonstração (Deploy): https://poketracker-tb.netlify.app/
