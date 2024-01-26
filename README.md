@@ -4,10 +4,6 @@ Meu nome é Breno Moraes! Bem vindo(a) ao meu perfil!
 - Desenvolvedor Full-Stack
 - Graduação em Análise e Desenvolvimento de Sistemas - Estácio (cursando)
 - Desenvolvimento de Software Full-Stack - Cubos Academy
-## Contato
-
-Email: brenomoraes.dev@gmail.com
-
 
 
 ## Hard Skills
