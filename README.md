@@ -1,11 +1,4 @@
 
-Meu nome é Breno Moraes! Bem vindo(a) ao meu perfil!
-
-- Desenvolvedor Full-Stack
-- Graduação em Análise e Desenvolvimento de Sistemas - Estácio (cursando)
-- Desenvolvimento de Software Full-Stack - Cubos Academy
-
-
 ## Hard Skills
 
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
